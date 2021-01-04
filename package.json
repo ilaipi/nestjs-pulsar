@@ -1,6 +1,6 @@
 {
   "name": "nestjs-pulsar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A nestjs module wrapper for pulsar",
   "author": "Billy Yang",
   "main": "dist/index.js",
