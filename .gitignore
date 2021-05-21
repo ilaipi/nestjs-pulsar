@@ -227,3 +227,6 @@ example/dist
 example/node_modules
 
 .docusaurus
+
+dist/example
+dist/src

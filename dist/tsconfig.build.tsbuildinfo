@@ -522,8 +522,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/external/validation-error.interface.d.ts": {
-        "version": "ef323c17fe66758bb8d843da4f5676e3a460c26763c0448424b436b9a8101011",
-        "signature": "ef323c17fe66758bb8d843da4f5676e3a460c26763c0448424b436b9a8101011",
+        "version": "a8150bc382dd12ce58e00764d2366e1d59a590288ee3123af8a4a2cb4ef7f9df",
+        "signature": "a8150bc382dd12ce58e00764d2366e1d59a590288ee3123af8a4a2cb4ef7f9df",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/features/execution-context.interface.d.ts": {
@@ -612,8 +612,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts": {
-        "version": "0c1348abf453cb61d1a52250ec2061278666c70d22500c10a4203f68d66cd814",
-        "signature": "0c1348abf453cb61d1a52250ec2061278666c70d22500c10a4203f68d66cd814",
+        "version": "1f9cc8013b709369d82a9f19813cd09cd478481553a0e8262b3b7f28ab52b0b2",
+        "signature": "1f9cc8013b709369d82a9f19813cd09cd478481553a0e8262b3b7f28ab52b0b2",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/external/https-options.interface.d.ts": {
@@ -632,13 +632,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts": {
-        "version": "dbd539762e28e585c1c954624a7ed059c32b8e72750024c91d3197dd5324991c",
-        "signature": "dbd539762e28e585c1c954624a7ed059c32b8e72750024c91d3197dd5324991c",
+        "version": "9aee949dd6fab5a9910aa0675b7c0dc99f8e877146873832f5cd884e464eed01",
+        "signature": "9aee949dd6fab5a9910aa0675b7c0dc99f8e877146873832f5cd884e464eed01",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/http/http-server.interface.d.ts": {
-        "version": "7d3b4fd361fea2de0bae1fde9b2924cc6a3fab397783cc773d64ee58e46cc5b7",
-        "signature": "7d3b4fd361fea2de0bae1fde9b2924cc6a3fab397783cc773d64ee58e46cc5b7",
+        "version": "de2e39833685a4746ad290c790f8e357edd5fb84945a3a6785915b7658089750",
+        "signature": "de2e39833685a4746ad290c790f8e357edd5fb84945a3a6785915b7658089750",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/http/message-event.interface.d.ts": {
@@ -737,8 +737,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/nest-application.interface.d.ts": {
-        "version": "92b9c41739f831864235ab9fd0adaaeee37dad4a4ebb15d85be5299411c78a29",
-        "signature": "92b9c41739f831864235ab9fd0adaaeee37dad4a4ebb15d85be5299411c78a29",
+        "version": "c8671371107b900ba70a02705dd35015b3854f76d417eaecbd6212e1b900f854",
+        "signature": "c8671371107b900ba70a02705dd35015b3854f76d417eaecbd6212e1b900f854",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/nest-microservice.interface.d.ts": {
@@ -777,8 +777,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/decorators/core/controller.decorator.d.ts": {
-        "version": "635d921c7b16826c01f5f86b9a86e7bd94d5cb9cf220f2136d8dbba8627a674c",
-        "signature": "635d921c7b16826c01f5f86b9a86e7bd94d5cb9cf220f2136d8dbba8627a674c",
+        "version": "b8da7c3578ca71041e131e9f7c4b44bc9f2fa403a91b049d56c6034f05d9151e",
+        "signature": "b8da7c3578ca71041e131e9f7c4b44bc9f2fa403a91b049d56c6034f05d9151e",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/decorators/core/dependencies.decorator.d.ts": {
@@ -857,8 +857,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/decorators/http/route-params.decorator.d.ts": {
-        "version": "eb1c9abbde9020ba44cfcc500701432364293b8f3dd0898a2531d7c84592eab7",
-        "signature": "eb1c9abbde9020ba44cfcc500701432364293b8f3dd0898a2531d7c84592eab7",
+        "version": "323aa685b5d4087d8601b00bb0b7505b02def2a468825fff75b632968952c402",
+        "signature": "323aa685b5d4087d8601b00bb0b7505b02def2a468825fff75b632968952c402",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/decorators/http/http-code.decorator.d.ts": {
@@ -1082,18 +1082,18 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/default-value.pipe.d.ts": {
-        "version": "a1a3339a334f1389927088846b52bd99d5e0b484c366a251bc92585aa856a43e",
-        "signature": "a1a3339a334f1389927088846b52bd99d5e0b484c366a251bc92585aa856a43e",
+        "version": "66e351f3739da4f30b9a0274e16b3a850014931896f31d568746a3056076fcef",
+        "signature": "66e351f3739da4f30b9a0274e16b3a850014931896f31d568746a3056076fcef",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/external/class-transform-options.interface.d.ts": {
-        "version": "97a79b756b361951755990c5f8de7d344e8424bcdb7734b420d7293080ba63b7",
-        "signature": "97a79b756b361951755990c5f8de7d344e8424bcdb7734b420d7293080ba63b7",
+        "version": "ebbe6765a836bfa7f03181bc433c8984ca29626270ca1e240c009851222cb8a7",
+        "signature": "ebbe6765a836bfa7f03181bc433c8984ca29626270ca1e240c009851222cb8a7",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/interfaces/external/validator-options.interface.d.ts": {
-        "version": "bc3632c2e7da2f0c9a20890c06ef9b125b3b907e9ab92433bbde78a5779247ca",
-        "signature": "bc3632c2e7da2f0c9a20890c06ef9b125b3b907e9ab92433bbde78a5779247ca",
+        "version": "b2f2311d7085a1feec3f6a85d7cc8bdaf1d976de1874c1f92940ad8ce6a34d39",
+        "signature": "b2f2311d7085a1feec3f6a85d7cc8bdaf1d976de1874c1f92940ad8ce6a34d39",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts": {
@@ -1102,28 +1102,28 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts": {
-        "version": "8f5e19eddf60c08458443b9170f15007121445c4987ebbfd2fdb8ed007238498",
-        "signature": "8f5e19eddf60c08458443b9170f15007121445c4987ebbfd2fdb8ed007238498",
+        "version": "89df6c6a92c4501a0455a9d94784da870bdfb4034a139c4878bbf5fcaaf4f19e",
+        "signature": "89df6c6a92c4501a0455a9d94784da870bdfb4034a139c4878bbf5fcaaf4f19e",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/parse-array.pipe.d.ts": {
-        "version": "fd957ca0ac4e2ec215a9b15de793be35ebcde7c63401537a1ad2c78c5a644aeb",
-        "signature": "fd957ca0ac4e2ec215a9b15de793be35ebcde7c63401537a1ad2c78c5a644aeb",
+        "version": "8f0ab38ea72ffbd177ac897c1b559334362373261b8bffda7950ed3961a8fcc5",
+        "signature": "8f0ab38ea72ffbd177ac897c1b559334362373261b8bffda7950ed3961a8fcc5",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/parse-bool.pipe.d.ts": {
-        "version": "fa1f3704fc31ab3251c183c5653c6cbd253058da76531b6f14accb2c40749380",
-        "signature": "fa1f3704fc31ab3251c183c5653c6cbd253058da76531b6f14accb2c40749380",
+        "version": "425208368b07a6a747f13975d261688c6a874a67555a3fb518fb52f42867e394",
+        "signature": "425208368b07a6a747f13975d261688c6a874a67555a3fb518fb52f42867e394",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/parse-int.pipe.d.ts": {
-        "version": "b50e1d78706fcc470f50f5f99db96875984fab08725efe78e1588e8240239d58",
-        "signature": "b50e1d78706fcc470f50f5f99db96875984fab08725efe78e1588e8240239d58",
+        "version": "36a789256b8e764f16c089ca9da548fea3e21fb268cefcd1ee7118fbea39cbd1",
+        "signature": "36a789256b8e764f16c089ca9da548fea3e21fb268cefcd1ee7118fbea39cbd1",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/parse-uuid.pipe.d.ts": {
-        "version": "56bfcc1ad68a19b868022ceae3d285b7f9ba697b5f51c0189b6bd7e0c25898a6",
-        "signature": "56bfcc1ad68a19b868022ceae3d285b7f9ba697b5f51c0189b6bd7e0c25898a6",
+        "version": "e3f5060e98d678e320df7fed7391e6c1291849df4b9e36c8b2ab6dc5604d8f37",
+        "signature": "e3f5060e98d678e320df7fed7391e6c1291849df4b9e36c8b2ab6dc5604d8f37",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/common/pipes/index.d.ts": {
@@ -1169,61 +1169,6 @@
       "../node_modules/@nestjs/common/index.d.ts": {
         "version": "95b5a3078fdc51508d5d9cde59a1dd9525b53fd42dc12265a55261fd415d3274",
         "signature": "95b5a3078fdc51508d5d9cde59a1dd9525b53fd42dc12265a55261fd415d3274",
-        "affectsGlobalScope": false
-      },
-      "../src/pulsar.service.ts": {
-        "version": "7a584e0c5c8b8f0ef66d704534498252f58fe045b9395a22456a984502dcf2b1",
-        "signature": "12d1ead15371cd4aef76192c86c149db354ce24309a8ce3a3181c822f101c7b9",
-        "affectsGlobalScope": false
-      },
-      "../src/types.ts": {
-        "version": "71e9314d42dee9b5ddf8ea7a97b61a370d5247f018541a952e9ab6c3e58deb0c",
-        "signature": "ec239d9eceab8957d2eab2fef72450b61d491c0ad5620d63fbb24ba1d05b3d29",
-        "affectsGlobalScope": false
-      },
-      "../src/pulsar.module.ts": {
-        "version": "a82f45d6be928b36b5ffa950604453f729069e4185612f3df7245444d037e50b",
-        "signature": "8565312faa0b46ee37fca03adff86037bb1032ea9e09af90ebf4a631878211a5",
-        "affectsGlobalScope": false
-      },
-      "../src/index.ts": {
-        "version": "d6150d055cb85d4587b32af769a1849b18f299b68d51ce827c3fc43efa2442b8",
-        "signature": "d6150d055cb85d4587b32af769a1849b18f299b68d51ce827c3fc43efa2442b8",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/anymatch/index.d.ts": {
-        "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
-        "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@babel/types/lib/index.d.ts": {
-        "version": "bcb65ca77412000e1f33384efbbb615a8dac55aca6aa06a4552b01e7c8cd6577",
-        "signature": "bcb65ca77412000e1f33384efbbb615a8dac55aca6aa06a4552b01e7c8cd6577",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/babel__generator/index.d.ts": {
-        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
-        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/babel__traverse/index.d.ts": {
-        "version": "8a278bfba7b081cd849434c1130655046639ae90617a682436ed6954e2b57403",
-        "signature": "8a278bfba7b081cd849434c1130655046639ae90617a682436ed6954e2b57403",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@babel/parser/typings/babel-parser.d.ts": {
-        "version": "b1401d1d9117a5e4d981c965e3408dcb6e2b63022b716816e6d83599ab369a53",
-        "signature": "b1401d1d9117a5e4d981c965e3408dcb6e2b63022b716816e6d83599ab369a53",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/babel__template/index.d.ts": {
-        "version": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
-        "signature": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/babel__core/index.d.ts": {
-        "version": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
-        "signature": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/globals.d.ts": {
@@ -1461,6 +1406,66 @@
         "signature": "5825520e2099309182c6e2a2b3061b060d42a098c58f67d1754880a7e2cce99a",
         "affectsGlobalScope": false
       },
+      "../node_modules/pulsar-client/index.d.ts": {
+        "version": "20ac23adf1c5d99c15adc6e5506303b26b2af83861b82ae1897b7daf423b1254",
+        "signature": "20ac23adf1c5d99c15adc6e5506303b26b2af83861b82ae1897b7daf423b1254",
+        "affectsGlobalScope": false
+      },
+      "../src/pulsar.service.ts": {
+        "version": "7a584e0c5c8b8f0ef66d704534498252f58fe045b9395a22456a984502dcf2b1",
+        "signature": "12d1ead15371cd4aef76192c86c149db354ce24309a8ce3a3181c822f101c7b9",
+        "affectsGlobalScope": false
+      },
+      "../src/types.ts": {
+        "version": "71e9314d42dee9b5ddf8ea7a97b61a370d5247f018541a952e9ab6c3e58deb0c",
+        "signature": "ec239d9eceab8957d2eab2fef72450b61d491c0ad5620d63fbb24ba1d05b3d29",
+        "affectsGlobalScope": false
+      },
+      "../src/pulsar.module.ts": {
+        "version": "a82f45d6be928b36b5ffa950604453f729069e4185612f3df7245444d037e50b",
+        "signature": "8565312faa0b46ee37fca03adff86037bb1032ea9e09af90ebf4a631878211a5",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "d6150d055cb85d4587b32af769a1849b18f299b68d51ce827c3fc43efa2442b8",
+        "signature": "d6150d055cb85d4587b32af769a1849b18f299b68d51ce827c3fc43efa2442b8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/anymatch/index.d.ts": {
+        "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@babel/types/lib/index.d.ts": {
+        "version": "bcb65ca77412000e1f33384efbbb615a8dac55aca6aa06a4552b01e7c8cd6577",
+        "signature": "bcb65ca77412000e1f33384efbbb615a8dac55aca6aa06a4552b01e7c8cd6577",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "8a278bfba7b081cd849434c1130655046639ae90617a682436ed6954e2b57403",
+        "signature": "8a278bfba7b081cd849434c1130655046639ae90617a682436ed6954e2b57403",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "b1401d1d9117a5e4d981c965e3408dcb6e2b63022b716816e6d83599ab369a53",
+        "signature": "b1401d1d9117a5e4d981c965e3408dcb6e2b63022b716816e6d83599ab369a53",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__template/index.d.ts": {
+        "version": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
+        "signature": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__core/index.d.ts": {
+        "version": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
+        "signature": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@types/connect/index.d.ts": {
         "version": "81c14b89fa607b86dd726e2e3e91360cf8155ce97468404324d404a5bd65b2eb",
         "signature": "81c14b89fa607b86dd726e2e3e91360cf8155ce97468404324d404a5bd65b2eb",
@@ -1609,6 +1614,11 @@
       "../node_modules/@types/prettier/index.d.ts": {
         "version": "c4efa4df1372e991aa44b70b8d87b48865d94ecd26e76025854f2273df155253",
         "signature": "c4efa4df1372e991aa44b70b8d87b48865d94ecd26e76025854f2273df155253",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/pulsar-client/index.d.ts": {
+        "version": "53c7b3aad43d17b4b7f72548867326f7240d0d4597210fbe709615dfd64da337",
+        "signature": "53c7b3aad43d17b4b7f72548867326f7240d0d4597210fbe709615dfd64da337",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/source-list-map/index.d.ts": {
@@ -2143,7 +2153,7 @@
         "../node_modules/rxjs/index.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/default-value.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts"
+        "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/index.d.ts": [
         "../node_modules/@nestjs/common/pipes/default-value.pipe.d.ts",
@@ -2154,29 +2164,25 @@
         "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-array.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/index.d.ts",
         "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-bool.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-int.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-uuid.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/external/class-transform-options.interface.d.ts",
+        "../node_modules/@nestjs/common/interfaces/external/validation-error.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/external/validator-options.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/type.interface.d.ts",
@@ -2440,6 +2446,9 @@
       "../node_modules/@types/node/zlib.d.ts": [
         "../node_modules/@types/node/stream.d.ts"
       ],
+      "../node_modules/@types/pulsar-client/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
       "../node_modules/@types/serve-static/index.d.ts": [
         "../node_modules/@types/mime/index.d.ts",
         "../node_modules/@types/node/http.d.ts",
@@ -2559,6 +2568,9 @@
       ],
       "../node_modules/pretty-format/build/index.d.ts": [
         "../node_modules/pretty-format/build/types.d.ts"
+      ],
+      "../node_modules/pulsar-client/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
       ],
       "../node_modules/rxjs/index.d.ts": [
         "../node_modules/rxjs/internal/AsyncSubject.d.ts",
@@ -2867,7 +2879,11 @@
         "../src/types.ts"
       ],
       "../src/pulsar.service.ts": [
-        "../node_modules/@nestjs/common/index.d.ts"
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/pulsar-client/index.d.ts"
+      ],
+      "../src/types.ts": [
+        "../node_modules/pulsar-client/index.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -3262,7 +3278,7 @@
         "../node_modules/rxjs/index.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/default-value.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts"
+        "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/index.d.ts": [
         "../node_modules/@nestjs/common/pipes/default-value.pipe.d.ts",
@@ -3273,29 +3289,25 @@
         "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-array.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/index.d.ts",
         "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-bool.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-int.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/parse-uuid.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts"
       ],
       "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/common/interfaces/external/class-transform-options.interface.d.ts",
+        "../node_modules/@nestjs/common/interfaces/external/validation-error.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/external/validator-options.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
         "../node_modules/@nestjs/common/interfaces/type.interface.d.ts",
@@ -3559,6 +3571,9 @@
       "../node_modules/@types/node/zlib.d.ts": [
         "../node_modules/@types/node/stream.d.ts"
       ],
+      "../node_modules/@types/pulsar-client/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
       "../node_modules/@types/serve-static/index.d.ts": [
         "../node_modules/@types/mime/index.d.ts",
         "../node_modules/@types/node/http.d.ts",
@@ -3678,6 +3693,9 @@
       ],
       "../node_modules/pretty-format/build/index.d.ts": [
         "../node_modules/pretty-format/build/types.d.ts"
+      ],
+      "../node_modules/pulsar-client/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
       ],
       "../node_modules/rxjs/index.d.ts": [
         "../node_modules/rxjs/internal/AsyncSubject.d.ts",
@@ -3981,7 +3999,14 @@
         "../src/pulsar.service.ts"
       ],
       "../src/pulsar.module.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
         "../src/types.ts"
+      ],
+      "../src/pulsar.service.ts": [
+        "../node_modules/pulsar-client/index.d.ts"
+      ],
+      "../src/types.ts": [
+        "../node_modules/pulsar-client/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": []
